@@ -390,6 +390,7 @@ require('lazy').setup({
         --
         defaults = {
           layout_strategy = 'vertical',
+          path_display = { 'smart' },
         },
         -- pickers = {}
         extensions = {
